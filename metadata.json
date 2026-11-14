@@ -1,0 +1,6 @@
+{
+  "name": "Automated Test Case Management & Bug Tracking System",
+  "description": "Interactive software testing management dashboard with test case CRUD, automated JavaScript test execution simulation, bug tracking, Chart.js analytics, and CSV reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
